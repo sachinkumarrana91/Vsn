@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Login">
+
+	<parameter name="BrowserName" value="Firefox"/>
+	<!-- <parameter name="BrowserName" value="Chrome"/>
+	<parameter name="BrowserName" value="IE"/>
+	 -->
+
+	<test name="Initialize EnvironMent">
+		<classes>
+			<class name="core.Core"/>
+		</classes>
+	</test> <!-- Test -->
+	
+	<test name="TestLogin">
+		<classes>
+			<class name="testScripts.VisionLogin"/>
+		</classes>
+	</test> <!-- Test -->
+ 
+	<test name="Run_DB_job@Backend">
+		<classes>
+			<class name="testScripts.AcceptQueue"/>
+		</classes>
+	</test> <!-- Test -->
+ 
+	<test name="AcceptQuotes">
+		<classes>
+			<class name="testScripts.AcceptQueue"/>
+		</classes>
+	</test> <!-- Test -->
+ 
+</suite> <!-- suite -->
