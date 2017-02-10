@@ -1,0 +1,35 @@
+10/02/2017 16:34:54 devpinoyLogger Test Case: loginQA Starts Running
+10/02/2017 16:34:59 devpinoyLogger Test Method: doLogin Starts Running
+10/02/2017 16:35:05 devpinoyLogger Test Case: loginQA Passed
+10/02/2017 16:36:34 devpinoyLogger Test Case: openPurchaseOrderRelease Starts Running
+10/02/2017 16:36:34 devpinoyLogger Test Method: clickOrderToDelivery Starts Running
+10/02/2017 16:36:34 devpinoyLogger Test Method: clickUnitProcessingChasing Starts Running
+10/02/2017 16:36:37 devpinoyLogger Test Method: clickPurchaseOrderReleaseButton Starts Running
+10/02/2017 16:36:43 devpinoyLogger Test Case: openPurchaseOrderRelease Passed
+10/02/2017 16:37:28 devpinoyLogger Test Case: savePO Starts Running
+10/02/2017 16:37:28 devpinoyLogger Test Method: savePO Starts Running
+10/02/2017 16:37:48 devpinoyLogger Test Case: savePO Passed
+10/02/2017 16:38:31 devpinoyLogger Test Case: confirmPO Starts Running
+10/02/2017 16:38:31 devpinoyLogger Test Method: confirmPO Starts Running
+10/02/2017 16:38:51 devpinoyLogger Test Case: confirmPO Passed
+10/02/2017 16:38:51 devpinoyLogger Test Case: openAcceptanceQueue Starts Running
+10/02/2017 16:38:51 devpinoyLogger Test Method: clickOrderToDelivery Starts Running
+10/02/2017 16:38:51 devpinoyLogger Test Method: clickAcceptanceQueue Starts Running
+10/02/2017 16:38:54 devpinoyLogger Test Case: openAcceptanceQueue Passed
+10/02/2017 16:38:54 devpinoyLogger Test Case: acceptQueue Starts Running
+10/02/2017 16:38:54 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:39:14 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:39:35 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:39:55 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:40:15 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:40:35 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:40:55 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:41:15 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:41:35 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:41:55 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:42:15 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:42:35 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:42:55 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:43:15 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:43:36 devpinoyLogger Test Method: AcceptQuote Starts Running
+10/02/2017 16:43:56 devpinoyLogger Test Case: acceptQueue Passed

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="BrowserName" value="Firefox"/>
+  <test name="Test1">
+    <classes>
+      <class name="core.Core"/>
+    </classes>
+  </test> <!-- Test1 -->
+  <test name="Test2">
+    <classes>
+      <class name="testScripts.VisionLogin"/>
+    </classes>
+  </test> <!-- Test2 -->
+  <test name="Test3">
+    <classes>
+      <class name="testScripts.ReleasePO">
+        <methods>
+          <include name="openPurchaseOrderRelease"/>
+          <include name="savePO"/>
+          <include name="confirmPO"/>
+          <exclude name="releasePO"/>
+        </methods>
+      </class> <!-- testScripts.ReleasePO -->
+    </classes>
+  </test> <!-- Test3 -->
+  <test name="Test4">
+    <classes>
+      <class name="testScripts.AcceptQueue"/>
+    </classes>
+  </test> <!-- Test4 -->
+</suite> <!-- Failed suite [Suite] -->
